@@ -20,6 +20,9 @@ export default {
         'node',
     ],
     moduleDirectories: [
+        '.',
+        'src',
+        'src/util',
         'node_modules',
     ],
     modulePaths: [
