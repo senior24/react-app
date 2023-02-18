@@ -112,6 +112,9 @@ export default {
     // Reset the module registry before running each individual test
     // resetModules: false,
 
+    // A path to a custom resolver
+    // resolver: undefined,
+
     // Automatically restore mock state and implementation before every test
     // restoreMocks: false,
 
