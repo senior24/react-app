@@ -17,5 +17,3 @@ describe('getLoginError.test', () => {
         expect(getLoginError(state as StateSchema)).toEqual(undefined);
     });
 });
-
-
